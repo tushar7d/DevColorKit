@@ -1,0 +1,19 @@
+{
+  "name": "DevColorKit",
+  "id": "1346053186775427251",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "*"
+    ],
+    "reasoning": "testing"
+  },
+  "documentAccess": "dynamic-page"
+}
