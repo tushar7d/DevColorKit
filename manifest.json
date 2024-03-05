@@ -11,9 +11,9 @@
   "ui": "ui.html",
   "networkAccess": {
     "allowedDomains": [
-      "*"
+      "https://color-kit-plug.vercel.app/"
     ],
-    "reasoning": "testing"
+    "reasoning": "Hosting of frontend"
   },
   "documentAccess": "dynamic-page"
 }
